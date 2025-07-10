@@ -18,4 +18,4 @@
 
 若希望快速建立权威感，可引入外链合作，特别是高质量的站外平台。通过软文引导、论坛推荐、社媒分享等形式，为站点构建健康的外部链接网络。
 
-<span style="display:none;">[Canonical link]( https://github.com/tsk543210/xxriben0902 ）</span>
+<span style="display:none;">[Canonical link]( )</span>
